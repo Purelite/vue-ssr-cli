@@ -1,0 +1,13 @@
+{
+  "name": "Vue SSR CLI",
+  "short_name": "Vue SSR",
+  "icons": [{
+      "src": "/public/logo.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "background_color": "#fff",
+  "display": "standalone",
+  "theme_color": "#eee"
+}
